@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<carrier_config_list>
+    <carrier_config mcc="460" mnc="00">
+        <int name="network_RAT_prefer" value="1" />
+    </carrier_config>
+    <carrier_config mcc="460" mnc="01">
+        <int name="network_RAT_prefer" value="2" />
+    </carrier_config>
+    <carrier_config mcc="460" mnc="02">
+        <int name="network_RAT_prefer" value="1" />
+    </carrier_config>
+    <carrier_config mcc="460" mnc="06">
+        <int name="network_RAT_prefer" value="2" />
+    </carrier_config>
+    <carrier_config mcc="460" mnc="07">
+        <int name="network_RAT_prefer" value="1" />
+    </carrier_config>
+    <carrier_config mcc="460" mnc="08">
+        <int name="network_RAT_prefer" value="1" />
+    </carrier_config>
+    <carrier_config mcc="460" mnc="09">
+        <int name="network_RAT_prefer" value="2" />
+    </carrier_config>
+    <carrier_config mcc="334" mnc="020">
+        <int name="maxMessageSize" value="1048576" />
+    </carrier_config>
+</carrier_config_list>
